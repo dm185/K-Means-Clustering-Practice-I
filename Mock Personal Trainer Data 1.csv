@@ -1,0 +1,501 @@
+Names,Age,Clients,Friends,Personality,Ranking,Education,Married,Years_Experience,Speech_Rate,Weight_KG,Height_CM
+Kirby,32,27,3,Extrovert,Master Trainer,High School,Y,14,109,98,188
+Ursa,45,19,1,Introvert,PT3,Associate,N,9,131,72,192
+Nerea,41,24,9,Extrovert,PT2,Associate,N,12,197,64,191
+Tara,26,15,7,Introvert,PT3,Associate,N,4,169,115,160
+Charles,44,23,2,Extrovert,PT1,Master,Y,9,180,57,210
+Lev,50,21,4,Introvert,PT3,High School,N,15,143,108,208
+Benjamin,33,29,3,Extrovert,Master Trainer,Bachelor,Y,15,118,117,197
+Petra,58,21,8,Introvert,Master Trainer,Master,Y,9,129,54,186
+MacKenzie,59,25,9,Introvert,PT3,Associate,Y,15,190,87,157
+Keith,59,8,7,Introvert,Master Trainer,Bachelor,Y,14,180,71,167
+Shelley,24,11,0,Extrovert,PT1,High School,Y,12,101,91,172
+Ferris,60,8,2,Extrovert,PT1,Bachelor,N,21,163,114,190
+Zena,45,2,5,Extrovert,PT2,High School,N,5,174,53,183
+Kaitlin,55,9,4,Extrovert,PT2,Bachelor,N,25,194,97,207
+Rigel,55,7,1,Introvert,PT1,High School,Y,13,198,56,194
+Lionel,24,6,5,Extrovert,PT3,Associate,Y,23,148,65,153
+Yuli,36,19,0,Introvert,Master Trainer,Associate,Y,20,104,77,151
+Amena,44,23,0,Introvert,PT1,Bachelor,N,7,182,82,168
+Chastity,34,19,7,Introvert,PT1,Associate,Y,25,127,105,187
+Tana,56,18,6,Introvert,PT3,Master,Y,1,156,111,206
+Destiny,24,29,1,Introvert,PT1,Bachelor,N,15,116,77,172
+Lynn,57,17,5,Introvert,PT1,Bachelor,N,21,190,85,181
+Reese,49,24,8,Extrovert,Master Trainer,Master,Y,11,168,112,198
+Dillon,58,4,1,Extrovert,Master Trainer,Master,N,15,161,115,170
+Ursa,31,27,4,Introvert,Master Trainer,High School,Y,16,199,71,175
+Lane,29,17,10,Extrovert,PT3,Master,Y,9,165,116,151
+Ulysses,45,26,4,Introvert,PT1,High School,Y,24,125,116,190
+Gail,43,1,6,Introvert,Master Trainer,High School,Y,21,145,105,171
+Elton,30,4,6,Extrovert,PT3,Associate,N,17,109,114,153
+Astra,52,17,9,Extrovert,PT3,Bachelor,N,13,137,100,181
+Tashya,53,13,5,Extrovert,Master Trainer,High School,Y,1,126,80,177
+Velma,28,13,1,Extrovert,Master Trainer,High School,N,11,119,112,202
+Justin,40,2,5,Introvert,PT1,Bachelor,N,25,102,76,201
+Carolyn,43,18,8,Extrovert,PT2,Master,Y,13,121,65,160
+Jasper,28,10,9,Extrovert,PT1,High School,Y,9,182,67,180
+Xandra,31,27,5,Introvert,PT2,High School,Y,11,129,72,175
+Grady,60,13,2,Introvert,PT1,High School,Y,23,142,93,190
+Beck,35,24,3,Extrovert,Master Trainer,High School,Y,7,147,56,182
+Yael,39,29,9,Extrovert,PT3,Associate,N,22,131,99,168
+Yvette,54,2,3,Extrovert,PT1,High School,Y,4,186,79,172
+Cruz,42,12,2,Introvert,PT2,Master,Y,2,109,97,166
+Willow,31,19,6,Introvert,Master Trainer,Bachelor,N,3,100,72,157
+Arthur,29,1,6,Extrovert,Master Trainer,Bachelor,Y,20,171,104,168
+Mohammad,28,11,1,Introvert,Master Trainer,Associate,Y,24,106,87,171
+Nissim,53,5,3,Introvert,PT2,Bachelor,N,14,132,120,159
+Julian,42,2,3,Introvert,PT2,Associate,N,14,167,87,152
+Hop,43,1,10,Extrovert,Master Trainer,Bachelor,Y,18,137,80,177
+Jayme,24,30,2,Introvert,PT1,Master,Y,18,180,116,197
+Lee,28,25,5,Extrovert,Master Trainer,Master,Y,13,135,79,193
+Orla,34,15,6,Extrovert,PT1,High School,N,6,171,53,159
+Graham,36,2,2,Extrovert,Master Trainer,Master,Y,9,186,97,207
+Levi,45,19,6,Extrovert,PT1,Associate,Y,17,121,100,184
+Alexis,43,20,2,Introvert,Master Trainer,Master,N,5,175,51,161
+Sacha,56,26,10,Extrovert,Master Trainer,Bachelor,Y,10,139,107,156
+Barrett,56,10,6,Introvert,PT3,Associate,Y,23,180,99,204
+Hedy,54,0,10,Introvert,PT3,Master,N,19,169,64,174
+Tana,38,3,0,Introvert,PT1,Associate,N,6,135,100,193
+Callum,53,21,8,Extrovert,Master Trainer,Master,Y,6,147,53,201
+Simon,31,5,7,Extrovert,Master Trainer,High School,Y,2,167,88,195
+Addison,53,10,8,Introvert,PT1,High School,Y,7,130,102,198
+Brielle,27,30,0,Introvert,PT3,Associate,Y,25,161,96,168
+Malik,31,28,8,Introvert,PT2,Master,N,0,169,59,205
+Portia,54,15,9,Introvert,PT3,Bachelor,Y,25,150,92,210
+Roth,41,3,3,Extrovert,PT2,Associate,N,7,176,83,203
+Alexa,27,0,8,Extrovert,PT1,High School,N,16,146,56,188
+Deanna,34,6,0,Introvert,PT2,Associate,Y,5,145,70,179
+Joan,54,0,7,Extrovert,Master Trainer,Associate,N,11,144,62,163
+William,51,27,3,Extrovert,PT2,Bachelor,Y,19,145,109,199
+Kay,29,18,3,Introvert,PT1,High School,Y,14,181,78,188
+Halla,58,24,1,Extrovert,PT1,Master,Y,2,101,74,184
+Charles,58,10,2,Extrovert,Master Trainer,Associate,Y,25,181,90,208
+Madison,59,3,9,Introvert,PT1,Associate,N,12,114,59,164
+Micah,29,25,9,Introvert,Master Trainer,Associate,Y,8,154,90,169
+Avye,32,7,9,Extrovert,PT1,Bachelor,Y,24,190,86,206
+Hyatt,49,28,2,Extrovert,PT3,Master,Y,12,142,114,190
+Jaquelyn,33,17,3,Introvert,PT1,High School,N,6,129,75,165
+Damian,28,17,8,Extrovert,PT3,Associate,Y,5,106,75,206
+Ishmael,39,20,8,Introvert,PT1,Bachelor,N,18,153,62,159
+Amena,53,11,5,Introvert,PT3,Associate,Y,3,133,69,199
+Cairo,26,20,6,Introvert,PT2,High School,Y,4,168,75,193
+Jayme,42,2,1,Extrovert,PT1,Associate,Y,25,166,100,177
+Francis,42,25,8,Introvert,PT1,Master,Y,23,109,75,184
+Desirae,53,17,3,Extrovert,Master Trainer,High School,Y,23,112,74,164
+Willow,49,18,10,Extrovert,Master Trainer,High School,Y,7,135,83,168
+Charissa,38,16,6,Extrovert,PT1,Master,N,23,123,69,156
+Vielka,56,10,8,Introvert,PT3,High School,N,20,160,66,161
+Gillian,42,25,10,Extrovert,Master Trainer,Bachelor,Y,19,134,73,160
+Yoshio,52,6,9,Introvert,PT2,High School,N,2,128,88,186
+Charity,38,18,3,Introvert,PT3,Master,Y,12,137,60,183
+Colby,43,2,10,Extrovert,PT1,High School,N,17,166,88,160
+Fallon,25,5,3,Introvert,PT2,Bachelor,N,17,106,50,192
+Malachi,38,16,10,Introvert,PT1,High School,N,10,127,58,163
+Clark,50,0,1,Extrovert,PT1,High School,Y,15,160,69,189
+Lillith,55,30,3,Introvert,PT3,High School,N,13,134,75,206
+Warren,57,4,9,Extrovert,PT3,Master,N,6,118,67,195
+Vincent,25,13,9,Extrovert,PT3,High School,Y,24,132,77,164
+Gwendolyn,39,25,2,Extrovert,PT3,Associate,Y,19,139,59,202
+Shaeleigh,34,27,5,Introvert,PT3,Bachelor,Y,10,119,115,167
+Ryan,44,14,3,Extrovert,PT2,Bachelor,Y,8,125,51,166
+Irma,57,14,2,Extrovert,Master Trainer,Master,N,19,154,91,160
+Galvin,27,4,6,Introvert,PT2,High School,N,0,106,112,172
+Lawrence,40,12,8,Extrovert,PT2,High School,Y,9,107,59,204
+Autumn,58,17,8,Extrovert,PT1,High School,Y,25,174,87,183
+Tanner,35,5,2,Extrovert,Master Trainer,Master,N,24,169,96,192
+Yoko,29,15,10,Extrovert,PT3,High School,N,22,154,118,152
+Shannon,34,29,1,Extrovert,PT1,Master,N,7,143,56,170
+Nell,30,22,1,Extrovert,Master Trainer,Master,Y,11,181,68,170
+Sage,60,22,3,Introvert,PT2,Bachelor,N,19,110,82,210
+Genevieve,23,5,8,Introvert,Master Trainer,Bachelor,N,21,186,101,172
+Dora,38,16,4,Extrovert,PT3,Associate,Y,16,176,63,206
+Damian,49,4,9,Extrovert,PT2,Master,Y,12,159,61,167
+Maris,59,5,5,Introvert,PT3,Master,Y,17,165,96,174
+Dominique,26,16,0,Extrovert,PT3,Master,Y,2,137,77,183
+Jamal,43,27,4,Extrovert,PT2,High School,N,18,148,64,157
+Wynne,52,26,9,Introvert,Master Trainer,Bachelor,Y,9,169,76,201
+Nash,36,5,6,Extrovert,PT1,High School,N,11,200,101,163
+Raphael,27,3,6,Extrovert,PT1,Bachelor,N,6,156,111,204
+Felicia,31,22,5,Introvert,PT3,Master,Y,16,183,58,167
+Armand,47,23,7,Extrovert,PT3,High School,N,3,152,92,158
+Germane,34,3,0,Introvert,PT1,Master,N,15,122,84,195
+Noble,45,21,9,Introvert,PT3,Bachelor,Y,23,107,96,190
+Jacob,35,7,0,Extrovert,PT3,Associate,N,11,176,61,151
+Desiree,22,3,4,Extrovert,PT1,High School,Y,10,105,85,188
+Kirestin,47,10,9,Introvert,PT1,High School,Y,25,200,69,188
+Walter,30,8,8,Extrovert,PT3,Associate,N,13,180,98,201
+Bruce,56,3,0,Introvert,PT3,Associate,Y,1,143,53,157
+Alice,52,5,4,Extrovert,PT3,Master,Y,22,187,83,195
+Rowan,28,27,7,Introvert,PT2,High School,N,6,105,119,150
+Raymond,44,22,0,Extrovert,PT3,Bachelor,N,22,105,81,172
+Judith,44,27,0,Introvert,PT1,High School,Y,3,160,90,179
+Peter,53,12,10,Introvert,PT2,Master,Y,17,130,101,192
+Nina,25,14,3,Extrovert,PT1,Master,Y,0,116,99,206
+Ulla,39,28,1,Extrovert,PT3,Bachelor,Y,10,176,116,190
+Kareem,44,12,5,Extrovert,Master Trainer,Associate,Y,6,171,73,205
+Donovan,32,15,1,Extrovert,PT3,High School,N,15,154,118,186
+Noble,60,0,8,Introvert,Master Trainer,Master,Y,21,149,110,188
+Leo,42,28,6,Introvert,PT3,Associate,Y,12,117,74,192
+Vaughan,31,16,8,Introvert,Master Trainer,Associate,N,17,163,52,172
+Meghan,38,14,4,Introvert,PT3,High School,N,12,118,95,153
+Ali,41,29,4,Extrovert,PT3,High School,Y,14,111,112,199
+Marshall,44,14,4,Extrovert,PT3,Bachelor,N,2,121,64,188
+Jane,54,22,4,Extrovert,Master Trainer,Master,Y,11,167,118,175
+Macy,26,2,2,Introvert,PT3,Associate,N,15,100,76,191
+Bianca,60,26,0,Extrovert,PT1,Master,N,13,131,71,166
+Hall,47,7,7,Extrovert,PT2,Bachelor,Y,12,164,100,198
+Benedict,29,15,0,Extrovert,PT1,Master,Y,14,128,57,175
+Xenos,50,19,4,Introvert,PT2,Bachelor,N,11,175,86,155
+James,27,1,10,Introvert,Master Trainer,Bachelor,N,15,188,63,160
+Quamar,40,25,6,Extrovert,PT1,Master,N,0,183,63,175
+Zeph,60,16,8,Introvert,Master Trainer,Bachelor,Y,5,100,87,169
+Simon,57,5,8,Extrovert,PT2,Master,Y,0,136,91,186
+Larissa,51,8,0,Extrovert,PT3,Master,Y,24,176,75,168
+Wing,57,26,6,Introvert,PT3,Bachelor,Y,8,120,70,179
+Cairo,45,25,10,Extrovert,PT3,Associate,N,18,142,120,199
+Calvin,47,28,3,Extrovert,PT2,Bachelor,N,22,155,67,190
+Joan,29,17,6,Extrovert,Master Trainer,High School,Y,5,124,71,194
+Asher,52,6,3,Introvert,PT2,High School,N,17,181,74,206
+Belle,48,9,7,Extrovert,PT2,Master,N,24,125,54,208
+Kirsten,39,10,1,Extrovert,PT1,Master,N,5,149,97,166
+Andrew,53,14,10,Extrovert,Master Trainer,Bachelor,N,25,191,81,183
+Cherokee,30,20,7,Extrovert,PT3,Bachelor,Y,22,117,70,181
+Marshall,27,5,9,Extrovert,PT2,Bachelor,Y,24,184,117,162
+Jael,40,15,8,Extrovert,PT1,Associate,Y,6,172,115,180
+Tobias,26,15,6,Introvert,PT3,High School,Y,14,200,57,177
+Dustin,43,19,7,Extrovert,PT3,Bachelor,Y,19,144,109,193
+Zeus,25,23,9,Introvert,PT2,High School,Y,19,157,115,159
+Venus,39,1,2,Introvert,Master Trainer,Bachelor,Y,13,161,113,193
+Vielka,58,10,6,Extrovert,PT2,Bachelor,Y,19,133,108,163
+James,55,11,2,Extrovert,PT2,High School,N,24,170,108,210
+Serena,28,17,8,Introvert,PT2,Master,N,14,182,81,204
+Salvador,39,15,9,Extrovert,PT3,Master,N,8,165,91,160
+Gavin,40,15,7,Extrovert,PT1,Associate,Y,15,119,54,206
+Florence,36,3,0,Extrovert,PT3,Associate,Y,11,153,113,163
+Madison,56,22,5,Extrovert,PT2,Associate,N,5,168,67,179
+Lani,26,16,0,Introvert,PT2,Bachelor,N,23,197,65,201
+Gareth,42,20,7,Introvert,PT3,Associate,N,1,187,104,209
+Nelle,28,12,2,Extrovert,PT3,Associate,Y,7,139,55,190
+Jakeem,24,17,6,Introvert,Master Trainer,Associate,Y,1,106,96,197
+Giselle,40,6,3,Introvert,Master Trainer,Associate,N,7,166,68,204
+Benjamin,38,15,5,Introvert,Master Trainer,Master,N,20,137,87,206
+Xander,30,0,1,Extrovert,Master Trainer,Master,N,9,160,111,158
+Hiroko,43,18,3,Extrovert,PT3,High School,Y,17,195,64,157
+Stacy,52,30,1,Introvert,PT2,High School,N,14,103,84,187
+Dahlia,51,26,2,Extrovert,PT1,Master,Y,0,130,56,160
+Lillian,40,16,7,Introvert,PT1,Bachelor,N,21,185,117,208
+Ella,26,13,7,Extrovert,PT1,High School,Y,8,177,55,190
+Erasmus,51,12,10,Extrovert,PT2,Master,Y,15,139,112,172
+Yuli,22,12,5,Introvert,PT2,Associate,N,14,124,70,175
+Selma,33,10,10,Introvert,PT2,High School,Y,10,187,108,152
+Justin,49,22,7,Introvert,PT2,High School,N,16,135,104,178
+Emi,40,2,9,Introvert,PT3,High School,Y,17,187,60,175
+Nathan,48,8,9,Extrovert,PT3,Associate,N,2,171,103,168
+Xandra,59,25,1,Introvert,PT2,Bachelor,N,19,167,120,152
+Rhonda,59,30,7,Introvert,PT1,Master,N,13,125,59,190
+Lacota,30,27,2,Introvert,PT1,Associate,N,19,187,92,176
+Eden,58,25,0,Extrovert,PT2,Associate,N,13,196,100,175
+Preston,26,16,0,Introvert,PT1,Associate,N,23,183,57,189
+Edward,35,15,0,Extrovert,PT2,Master,Y,15,191,76,184
+Robert,23,8,4,Extrovert,PT2,Bachelor,Y,21,153,98,166
+James,24,18,9,Extrovert,PT3,Associate,Y,16,177,93,190
+Blossom,23,29,0,Introvert,PT3,Bachelor,Y,7,110,118,173
+Coby,33,23,6,Introvert,PT3,Master,N,10,117,90,174
+Nasim,23,28,5,Extrovert,PT1,Bachelor,N,13,147,95,151
+Macaulay,57,25,4,Extrovert,PT3,Bachelor,Y,17,166,65,173
+Len,34,2,1,Introvert,PT3,High School,N,8,196,100,207
+Urielle,44,17,5,Extrovert,PT1,Associate,Y,9,147,74,156
+Leandra,32,15,3,Introvert,PT2,Bachelor,N,16,193,83,166
+Lani,56,25,0,Extrovert,Master Trainer,Master,Y,12,157,85,189
+Lionel,33,10,5,Extrovert,PT3,High School,N,13,130,70,177
+Quin,37,8,7,Introvert,PT2,Associate,Y,25,182,86,202
+Maggie,57,15,4,Introvert,Master Trainer,High School,N,12,175,62,152
+Simon,39,1,3,Introvert,PT3,Master,N,24,101,107,175
+Cheryl,50,25,10,Extrovert,Master Trainer,Bachelor,N,17,183,68,156
+Dacey,43,10,3,Introvert,Master Trainer,Associate,N,3,133,100,160
+Eagan,57,25,2,Extrovert,PT3,Associate,Y,22,192,58,164
+Stephanie,41,26,2,Introvert,PT2,Associate,Y,5,163,103,188
+Arden,54,30,6,Extrovert,Master Trainer,Bachelor,N,5,187,89,194
+Emmanuel,27,5,5,Introvert,PT3,Master,N,17,139,63,203
+Hashim,50,27,0,Extrovert,PT1,Bachelor,N,0,182,111,161
+Colin,53,3,4,Extrovert,PT2,High School,N,9,131,116,176
+Ryan,41,3,8,Introvert,PT2,Master,N,16,153,90,189
+Giacomo,32,3,3,Introvert,PT3,Associate,Y,9,147,86,169
+Raphael,26,23,9,Extrovert,PT3,High School,N,6,143,65,189
+Evelyn,27,7,5,Introvert,PT3,Master,N,21,171,120,159
+Catherine,51,28,8,Introvert,PT3,High School,N,22,133,58,169
+Micah,35,13,9,Extrovert,PT1,Master,N,2,123,110,198
+Dale,43,9,4,Introvert,PT2,Bachelor,Y,15,171,68,174
+David,55,12,4,Introvert,Master Trainer,Master,N,23,165,57,186
+Alea,37,29,1,Extrovert,PT1,High School,Y,18,184,51,169
+Nora,45,14,0,Extrovert,Master Trainer,Bachelor,N,7,111,86,187
+Cooper,52,27,0,Extrovert,PT2,Bachelor,Y,17,183,93,207
+Breanna,41,15,2,Introvert,PT1,Bachelor,N,23,101,85,204
+Jocelyn,52,15,1,Extrovert,PT1,Bachelor,Y,0,181,63,207
+Leroy,42,5,5,Introvert,PT3,Master,Y,25,150,72,175
+Callie,39,13,8,Extrovert,PT2,Associate,N,21,199,52,181
+Carson,37,25,10,Introvert,Master Trainer,High School,Y,15,104,71,163
+Preston,44,16,6,Introvert,PT3,Master,Y,11,155,118,165
+Brock,40,3,1,Introvert,PT2,Master,N,0,153,113,154
+Burton,28,26,1,Introvert,Master Trainer,Master,N,12,104,106,184
+Noah,38,0,10,Extrovert,PT1,Bachelor,Y,16,177,60,207
+Indira,28,28,2,Introvert,PT2,Bachelor,Y,5,164,118,193
+Ezekiel,59,2,9,Introvert,Master Trainer,Associate,Y,25,141,80,160
+Ulric,38,10,7,Introvert,PT2,Associate,Y,21,170,108,200
+Xaviera,38,23,1,Extrovert,PT2,Master,Y,2,116,59,166
+Arden,59,30,10,Extrovert,PT1,Associate,N,24,196,119,180
+Isabella,42,28,0,Introvert,Master Trainer,Bachelor,Y,24,104,102,155
+Kenyon,54,5,6,Introvert,PT1,Associate,N,20,131,112,203
+Steven,23,13,6,Introvert,PT2,High School,N,19,105,97,201
+Buckminster,24,19,4,Introvert,PT3,High School,N,11,146,90,164
+Brynne,52,19,10,Extrovert,Master Trainer,High School,Y,4,180,72,207
+Lani,50,2,8,Extrovert,PT2,Master,Y,22,145,107,188
+Hadley,60,26,10,Extrovert,PT2,High School,Y,18,110,88,194
+Phoebe,41,2,7,Extrovert,PT1,Bachelor,Y,6,157,58,169
+Hayden,43,28,6,Extrovert,PT1,Master,Y,12,175,82,173
+Leandra,31,7,7,Extrovert,PT2,Associate,Y,3,168,91,190
+Hilel,45,1,9,Introvert,Master Trainer,Associate,Y,18,101,61,163
+Emmanuel,29,14,5,Introvert,PT2,Master,Y,13,198,81,159
+Kenyon,22,19,7,Introvert,PT3,High School,N,25,173,70,151
+Lee,41,10,3,Extrovert,Master Trainer,Master,N,10,105,86,205
+Chiquita,56,13,1,Introvert,PT3,Master,N,2,151,95,207
+Denise,31,8,5,Extrovert,Master Trainer,Master,N,20,182,53,191
+Jolene,25,14,10,Introvert,Master Trainer,Bachelor,N,8,138,57,206
+Paloma,27,28,10,Extrovert,PT1,High School,N,1,126,73,167
+Hashim,59,19,10,Introvert,PT3,Associate,Y,3,119,74,204
+Clio,58,10,10,Introvert,PT2,Bachelor,Y,16,130,71,197
+Alika,46,1,4,Extrovert,PT3,Master,Y,8,140,50,191
+Raven,34,16,2,Introvert,Master Trainer,Associate,Y,24,150,104,158
+Harlan,27,29,0,Introvert,PT1,Master,Y,11,166,73,204
+Renee,51,21,7,Extrovert,PT2,Master,N,8,112,71,162
+Cooper,38,16,6,Introvert,PT3,High School,Y,12,134,52,188
+Yeo,25,8,6,Extrovert,PT1,Bachelor,N,14,178,119,162
+Gavin,48,25,8,Extrovert,PT1,Bachelor,N,19,133,84,208
+Barrett,33,14,7,Extrovert,PT1,Master,N,20,182,75,169
+Stuart,42,6,4,Introvert,PT3,Associate,Y,22,112,99,166
+Quintessa,26,6,5,Extrovert,PT1,High School,N,23,169,87,202
+Brenna,54,27,3,Extrovert,PT2,Bachelor,N,23,160,81,154
+Abraham,36,23,6,Extrovert,PT2,High School,N,6,130,96,203
+Abel,27,22,6,Introvert,Master Trainer,Master,N,25,128,82,201
+Emerson,34,6,0,Introvert,PT1,Associate,N,23,161,91,156
+Medge,54,26,5,Extrovert,PT1,High School,Y,4,118,116,184
+Victoria,44,15,9,Extrovert,PT2,Bachelor,N,7,145,70,204
+Sarah,58,25,5,Introvert,PT3,Bachelor,Y,10,129,53,174
+Mikayla,60,30,0,Extrovert,PT3,Bachelor,Y,15,141,108,171
+Rhiannon,59,24,5,Extrovert,PT3,Master,Y,20,163,70,207
+Valentine,32,4,1,Extrovert,PT1,High School,N,13,143,97,179
+Elaine,59,30,4,Introvert,PT3,Master,N,19,167,92,152
+Joelle,30,8,9,Extrovert,PT3,High School,Y,5,171,86,162
+Lance,53,13,8,Extrovert,PT1,Bachelor,Y,13,189,68,202
+Graiden,42,7,2,Introvert,Master Trainer,Master,Y,19,173,55,170
+Hillary,57,30,7,Extrovert,PT3,Master,Y,7,135,51,206
+Basil,43,16,2,Introvert,Master Trainer,Associate,N,19,147,73,184
+Jin,43,1,4,Extrovert,PT1,Master,Y,12,166,81,174
+Genevieve,38,20,7,Introvert,PT2,Associate,Y,21,180,60,158
+Phoebe,23,20,0,Extrovert,PT2,Associate,Y,9,106,62,162
+Jaden,45,11,0,Extrovert,PT3,Master,N,13,184,68,202
+Wade,38,8,5,Introvert,PT2,High School,Y,11,119,78,181
+Nayda,49,16,4,Extrovert,PT3,Master,Y,23,157,97,190
+Vance,34,5,6,Extrovert,PT3,Master,N,11,178,64,176
+Aaron,28,27,5,Introvert,PT3,Bachelor,N,16,135,114,168
+Stephen,34,4,4,Extrovert,Master Trainer,High School,Y,4,138,75,182
+Nell,59,12,9,Extrovert,PT1,Associate,N,3,179,97,183
+Beck,50,3,8,Extrovert,Master Trainer,High School,Y,19,171,106,197
+Amir,42,5,10,Introvert,PT2,Associate,N,24,180,117,180
+Amy,59,7,3,Extrovert,Master Trainer,High School,N,1,144,59,196
+Winifred,57,28,2,Introvert,PT3,Master,N,0,112,89,195
+Brendan,43,6,4,Extrovert,PT1,Master,Y,16,174,66,158
+Oleg,41,6,5,Extrovert,PT1,Master,N,8,186,58,182
+Sylvester,56,17,8,Extrovert,Master Trainer,Master,N,15,140,57,207
+Kirk,32,5,8,Extrovert,Master Trainer,Master,Y,21,109,97,200
+Aladdin,60,29,0,Introvert,PT1,Bachelor,Y,17,137,94,191
+Simone,58,14,0,Introvert,Master Trainer,Master,N,19,179,120,172
+Shelby,44,4,6,Introvert,PT1,Associate,N,3,108,52,161
+Ayanna,47,0,0,Introvert,PT3,Bachelor,Y,17,120,100,162
+Allen,44,26,3,Extrovert,PT3,Bachelor,Y,0,112,114,167
+Slade,55,3,5,Extrovert,PT1,Associate,N,17,121,83,200
+Chancellor,30,8,5,Introvert,PT3,Associate,N,23,195,105,182
+Calvin,39,2,8,Extrovert,PT1,Associate,Y,24,111,52,191
+Malcolm,31,12,2,Introvert,Master Trainer,High School,Y,10,143,62,185
+Genevieve,36,7,5,Introvert,PT3,High School,Y,24,193,106,192
+Yoshi,25,3,9,Introvert,PT1,Bachelor,N,13,123,102,167
+Eric,53,20,4,Introvert,Master Trainer,Associate,N,12,197,63,194
+Benedict,38,21,9,Introvert,Master Trainer,Associate,N,24,151,97,208
+Jared,39,10,5,Extrovert,PT2,Associate,Y,8,137,61,200
+Kamal,28,27,0,Extrovert,PT1,Associate,N,3,196,108,173
+Amber,22,28,3,Introvert,PT2,Master,Y,12,178,63,164
+August,37,28,2,Introvert,Master Trainer,High School,Y,25,167,84,180
+Lila,24,2,6,Introvert,Master Trainer,Bachelor,Y,25,176,115,165
+Ulla,32,24,4,Extrovert,PT3,Bachelor,N,2,144,118,163
+Belle,46,30,4,Extrovert,Master Trainer,Bachelor,N,8,178,68,190
+Reece,48,10,9,Extrovert,PT1,High School,N,19,107,82,208
+Cherokee,50,8,3,Introvert,Master Trainer,Master,Y,12,113,77,204
+Brianna,51,2,5,Introvert,PT1,Associate,N,24,179,93,204
+Alexis,24,5,9,Extrovert,PT3,High School,N,21,131,119,199
+Alexandra,54,14,3,Introvert,PT2,Associate,Y,12,195,54,150
+Garth,40,21,4,Extrovert,PT3,Master,Y,21,152,101,182
+Aurelia,55,19,3,Introvert,Master Trainer,Bachelor,N,13,190,107,205
+Orson,39,26,0,Extrovert,PT3,High School,Y,17,180,116,169
+Calvin,38,1,0,Extrovert,PT3,Bachelor,Y,2,126,79,150
+Clayton,43,1,10,Introvert,PT2,Bachelor,N,25,190,80,199
+Lacey,52,2,8,Extrovert,PT2,Master,Y,19,115,70,169
+Yasir,48,21,7,Introvert,PT3,High School,N,23,126,113,189
+Troy,38,14,1,Extrovert,PT2,High School,Y,15,110,89,173
+Damian,30,11,1,Introvert,PT2,Associate,N,2,140,88,151
+Tanek,48,21,4,Introvert,PT2,Associate,Y,15,103,71,154
+Nero,37,30,7,Extrovert,PT1,Master,N,21,200,76,192
+Hiram,56,6,10,Introvert,Master Trainer,Master,Y,24,108,110,195
+Raymond,31,27,10,Introvert,PT2,Bachelor,N,7,180,116,178
+Hadassah,52,7,2,Extrovert,PT3,Bachelor,N,13,188,98,161
+Urielle,52,30,0,Extrovert,PT1,Master,Y,15,120,83,196
+Bree,43,16,0,Introvert,Master Trainer,Master,N,8,199,95,157
+Karyn,40,24,8,Extrovert,Master Trainer,Master,Y,23,168,87,182
+Alexander,59,3,4,Introvert,PT3,Master,N,22,192,72,186
+Francesca,39,11,9,Extrovert,PT2,Master,N,7,192,75,207
+Desiree,46,20,10,Extrovert,Master Trainer,Bachelor,N,16,196,80,197
+Lucy,44,10,7,Extrovert,PT2,Bachelor,N,2,123,86,176
+Lionel,43,23,1,Introvert,PT1,Master,Y,1,183,54,153
+Keegan,58,27,4,Introvert,PT1,Bachelor,N,15,139,114,152
+Ria,31,15,7,Introvert,PT1,Master,Y,2,139,61,161
+Anthony,59,13,5,Extrovert,Master Trainer,High School,N,25,130,60,172
+Sade,42,19,2,Extrovert,PT2,High School,N,0,116,119,195
+Aurora,51,27,3,Introvert,PT1,Associate,N,23,130,108,159
+Laurel,31,1,7,Extrovert,PT3,Associate,N,18,141,113,153
+August,58,14,4,Introvert,Master Trainer,Associate,Y,9,119,106,180
+Chava,27,26,0,Extrovert,PT2,Bachelor,N,12,168,58,165
+Carson,47,22,8,Introvert,Master Trainer,High School,N,5,125,63,185
+Dennis,41,11,7,Introvert,PT1,Bachelor,Y,2,170,109,198
+Cameron,59,3,2,Extrovert,PT1,Associate,N,13,176,78,170
+Benedict,37,1,9,Extrovert,PT3,Associate,N,16,134,70,201
+Alan,30,24,5,Extrovert,PT2,Bachelor,Y,19,126,75,194
+Desiree,60,12,6,Extrovert,PT2,High School,N,25,177,86,198
+Rae,41,3,6,Extrovert,Master Trainer,Associate,Y,1,102,88,206
+Dane,56,16,3,Introvert,PT1,Associate,N,18,184,103,174
+Bradley,40,29,4,Introvert,PT3,Bachelor,N,24,175,80,195
+Zahir,33,29,5,Introvert,PT3,Master,N,6,134,97,196
+Nash,39,7,1,Extrovert,PT3,Master,Y,11,100,62,184
+Dante,30,3,2,Extrovert,PT3,Master,Y,8,129,105,171
+Raymond,36,15,3,Introvert,PT2,Master,Y,2,126,62,188
+Nina,51,6,4,Introvert,PT2,High School,Y,19,199,57,161
+Rhiannon,25,18,9,Extrovert,PT3,Master,Y,0,181,86,182
+Brynn,26,14,1,Introvert,PT1,High School,N,5,143,54,181
+Audrey,44,13,7,Introvert,Master Trainer,Master,Y,7,178,87,173
+Margaret,42,0,4,Extrovert,Master Trainer,High School,N,4,190,95,186
+Brody,48,17,9,Introvert,PT3,Master,N,20,131,67,150
+Clare,28,24,0,Extrovert,PT2,Master,N,16,134,80,201
+Alfonso,37,4,2,Extrovert,PT2,Associate,N,19,129,96,150
+Sybill,57,27,2,Introvert,PT1,Bachelor,Y,10,181,79,171
+Lareina,60,15,9,Extrovert,PT2,High School,Y,0,187,117,168
+Bo,38,1,5,Extrovert,Master Trainer,Bachelor,Y,16,177,58,174
+Odysseus,31,19,10,Introvert,PT3,Associate,Y,11,134,103,186
+Yvonne,42,3,1,Introvert,Master Trainer,Bachelor,N,15,178,69,193
+Carol,43,3,10,Extrovert,PT3,High School,N,12,191,107,183
+Charity,40,25,3,Extrovert,PT3,Master,N,16,176,53,174
+Kane,25,16,2,Introvert,PT2,Master,N,25,112,118,172
+Zahir,46,17,3,Extrovert,PT3,High School,N,1,147,66,150
+Quemby,34,29,9,Extrovert,PT3,Master,N,7,153,61,177
+Vernon,46,17,2,Introvert,PT2,Master,Y,1,138,93,208
+Acton,29,23,8,Introvert,PT3,High School,Y,2,111,66,171
+Ariel,43,23,3,Introvert,PT3,Master,Y,19,107,76,169
+Theodore,46,15,0,Introvert,PT3,Bachelor,Y,18,171,70,187
+Emmanuel,47,15,0,Introvert,PT1,Associate,N,10,161,111,192
+Octavia,27,23,7,Extrovert,PT2,Master,Y,24,109,115,183
+Paul,35,13,4,Extrovert,Master Trainer,Associate,Y,22,162,75,174
+Harlan,41,27,10,Extrovert,PT3,Associate,Y,11,197,116,196
+Ferris,31,13,1,Introvert,Master Trainer,Associate,Y,7,174,109,166
+Chadwick,44,23,2,Introvert,PT2,Associate,N,7,110,115,188
+Lucy,57,28,7,Introvert,PT2,Bachelor,Y,3,123,65,150
+Myles,32,28,5,Extrovert,PT2,Associate,N,11,174,57,183
+Upton,58,18,9,Extrovert,PT2,Associate,Y,19,122,88,205
+Delilah,36,2,4,Introvert,PT2,Associate,Y,16,170,62,168
+Todd,33,27,0,Introvert,Master Trainer,Bachelor,N,24,164,119,189
+Alisa,39,23,1,Extrovert,Master Trainer,Master,N,21,197,62,162
+Aline,23,19,10,Introvert,PT3,Bachelor,N,22,114,117,152
+Dieter,25,5,5,Extrovert,PT2,High School,Y,7,183,118,160
+Benjamin,56,8,10,Introvert,PT2,Associate,Y,3,113,119,177
+Cora,52,24,9,Introvert,PT2,Associate,Y,23,179,82,207
+Karleigh,34,10,9,Extrovert,PT3,Associate,Y,10,148,75,177
+Sonia,57,28,2,Introvert,PT2,Associate,N,18,131,96,188
+Adrienne,50,27,3,Introvert,PT2,Master,N,0,110,60,210
+Lucas,30,26,2,Extrovert,Master Trainer,High School,Y,10,198,75,156
+Tanner,48,5,6,Introvert,PT1,Master,N,6,177,113,208
+Hanae,40,7,1,Introvert,PT1,Associate,Y,7,187,67,169
+Idona,29,16,3,Introvert,PT2,Bachelor,N,23,145,54,169
+Unity,60,5,1,Introvert,PT1,Associate,Y,7,172,107,150
+Elaine,28,8,4,Introvert,PT2,Master,N,23,123,85,188
+Kasimir,31,17,5,Extrovert,PT3,Master,Y,8,165,111,201
+Roth,59,16,0,Extrovert,PT2,Associate,Y,10,123,102,150
+Lance,24,14,8,Extrovert,Master Trainer,Associate,Y,11,106,59,155
+Calista,47,26,1,Extrovert,PT1,Master,Y,11,118,57,166
+David,56,7,1,Introvert,Master Trainer,Master,N,3,160,51,173
+Kenneth,38,0,7,Introvert,PT3,Bachelor,Y,10,173,89,169
+Oren,42,27,6,Extrovert,PT2,High School,Y,12,181,72,164
+Vance,49,11,10,Extrovert,PT2,Bachelor,N,21,149,52,207
+Coby,52,29,2,Extrovert,PT2,Associate,Y,10,190,91,206
+Brenden,36,17,2,Introvert,PT1,Associate,Y,5,145,57,175
+Alexandra,34,12,7,Introvert,PT3,High School,Y,4,193,77,178
+Dawn,34,22,6,Extrovert,PT3,High School,N,7,190,115,189
+Shaine,59,8,9,Introvert,Master Trainer,High School,Y,17,114,106,152
+Len,39,11,9,Introvert,PT1,High School,N,1,141,112,153
+Daquan,49,14,7,Extrovert,PT2,Master,N,10,113,113,164
+Rooney,55,16,2,Introvert,PT3,Bachelor,Y,11,100,64,178
+Lyle,39,13,10,Introvert,PT2,Bachelor,N,10,197,70,192
+Fredericka,29,19,0,Introvert,PT3,High School,N,12,177,93,207
+Hector,39,2,6,Extrovert,PT3,Bachelor,N,8,113,102,177
+Sloane,55,21,6,Extrovert,Master Trainer,High School,N,21,140,55,168
+Xaviera,34,0,7,Introvert,Master Trainer,Master,Y,22,141,118,207
+Owen,30,9,10,Extrovert,Master Trainer,High School,Y,21,150,74,159
+Daryl,49,27,1,Extrovert,Master Trainer,Bachelor,Y,15,120,103,162
+Tate,46,12,3,Introvert,PT2,Master,Y,10,118,115,194
+Kennan,30,6,3,Introvert,PT1,Bachelor,Y,21,192,96,170
+Indigo,40,1,4,Extrovert,Master Trainer,Master,N,0,190,61,201
+Yael,44,4,6,Introvert,PT1,Associate,N,10,159,110,182
+Pascale,43,2,9,Extrovert,Master Trainer,High School,Y,9,143,82,175
+Camilla,45,23,3,Extrovert,PT2,Bachelor,N,15,128,50,194
+Jasper,40,6,7,Introvert,Master Trainer,Master,Y,21,190,68,199
+Briar,49,16,5,Introvert,PT3,High School,N,5,171,77,171
+Alexandra,32,27,8,Introvert,Master Trainer,High School,N,12,160,120,181
+Chancellor,31,30,9,Extrovert,Master Trainer,Master,Y,25,135,96,203
+Hedda,26,20,3,Introvert,Master Trainer,Master,Y,10,104,110,194
+Harper,40,23,6,Extrovert,PT2,Master,Y,3,142,88,164
+Akeem,60,17,6,Extrovert,PT1,Master,N,2,178,110,161
+Akeem,32,16,2,Extrovert,Master Trainer,High School,Y,0,123,64,175
+Barbara,56,11,8,Introvert,PT2,Master,Y,17,133,104,180
+Dennis,23,10,10,Extrovert,PT2,Bachelor,N,1,180,53,203
+Merrill,45,20,9,Introvert,PT1,Bachelor,N,20,185,90,189
+Oren,35,29,6,Extrovert,PT2,Master,Y,12,161,66,158
+MacKensie,23,2,5,Extrovert,PT2,Bachelor,Y,20,158,110,165
+Arsenio,34,26,0,Introvert,PT3,Associate,Y,1,156,86,207
+Beau,27,6,9,Introvert,PT3,High School,Y,17,170,87,164
+Vera,24,16,4,Extrovert,Master Trainer,Master,Y,22,155,93,191
+Kenyon,33,1,4,Extrovert,PT2,Associate,Y,21,137,90,205
+Eleanor,42,1,7,Extrovert,PT3,Associate,N,15,170,72,158
+Logan,46,13,10,Extrovert,PT1,High School,N,2,150,116,154
+Vance,51,4,0,Extrovert,PT2,Master,N,8,190,71,194
+Xena,44,1,3,Extrovert,Master Trainer,Bachelor,Y,0,140,72,182
+Ocean,51,15,9,Introvert,PT1,High School,N,12,126,59,167
+Palmer,54,3,9,Introvert,PT3,High School,N,24,181,89,201
+Matthew,52,0,0,Introvert,Master Trainer,Associate,N,21,196,80,154
+Jael,40,1,4,Extrovert,PT2,High School,N,12,137,59,169
+Sophia,58,19,6,Introvert,PT3,High School,N,16,188,60,157
+Kiara,51,15,9,Introvert,PT3,High School,N,5,127,68,190
+Larissa,33,17,10,Extrovert,PT2,Master,Y,2,200,66,168
+Maxwell,43,0,6,Introvert,PT3,Associate,N,12,169,113,185
+Dante,35,9,3,Extrovert,PT2,Associate,Y,20,138,112,154
+Claire,41,17,7,Introvert,PT2,High School,Y,10,137,96,175
+Brett,47,25,3,Extrovert,PT2,Associate,Y,6,135,109,199
+Carlos,59,19,6,Introvert,PT1,High School,Y,0,151,59,209
+Jayme,52,5,4,Extrovert,PT1,High School,Y,24,134,113,188
+Trevor,54,22,5,Introvert,PT3,Bachelor,Y,15,200,120,176
+Rebecca,45,30,4,Extrovert,PT3,High School,N,16,108,65,178
+Lareina,26,14,1,Introvert,PT2,High School,Y,0,131,85,190
+Tarik,54,1,1,Introvert,PT3,Bachelor,Y,3,166,57,178
+Ferris,60,0,0,Introvert,Master Trainer,Master,N,15,163,81,184
+Keegan,38,6,10,Introvert,PT3,Master,Y,22,139,100,182
+Adena,58,15,10,Introvert,PT1,High School,Y,8,157,87,177
+Lee,40,0,1,Introvert,PT2,Master,Y,9,148,52,198
+Lamar,35,0,10,Extrovert,Master Trainer,Master,N,2,177,56,190
+Tucker,49,11,0,Extrovert,PT2,Bachelor,Y,6,107,69,159
+Nelle,45,2,3,Extrovert,PT3,Master,Y,20,123,102,177
+Gray,24,30,7,Introvert,PT2,Associate,N,20,128,112,153
+Tarik,22,21,8,Extrovert,PT3,Bachelor,N,17,136,89,180
